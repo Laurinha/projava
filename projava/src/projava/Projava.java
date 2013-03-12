@@ -14,6 +14,6 @@ public class Projava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("OLA");
+        System.out.println("Mudar o texto para fazer push");
     }
 }

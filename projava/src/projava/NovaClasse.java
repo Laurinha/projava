@@ -12,5 +12,8 @@ public class NovaClasse {
 
     public NovaClasse() {
     }
+    public void imprime(){
+        System.out.println("imprimes e é se queres");
+    }
      
 }
