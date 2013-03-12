@@ -2,18 +2,18 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package projava;
+package pl5;
 
 /**
  *
- * @author i100623
+ * @author Delmar
  */
-public class Projava {
+public class PL5 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("OLA");
+        System.out.println("O hugo é gay!");
     }
 }
