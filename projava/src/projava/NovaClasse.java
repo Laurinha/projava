@@ -14,6 +14,9 @@ public class NovaClasse {
     }
     public void imprime(){
         System.out.println("imprimes e é se queres");
+        System.out.println("manipula o apagar da string");
+        
     }
+    
      
 }
